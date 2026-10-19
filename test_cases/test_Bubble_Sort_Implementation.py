@@ -1,6 +1,6 @@
 import importlib
 
-module = importlib.import_module("Code.Bubble_Sort_Implementation")
+module = importlib.import_module("codes.Bubble_Sort_Implementation")
 
 
 def test_unsorted_list():
